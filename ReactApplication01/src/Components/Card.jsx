@@ -9,7 +9,7 @@ const Card = (props) => {
 
         <div class="profile-wrapper">
             <div class="profile-content">
-                <img src={props.imgSrc} alt="profile" class="profile-img"/>
+                <img src={props.imgSrc} alt="kaustubh" class="profile-img"/>
             </div>
         </div>
 
