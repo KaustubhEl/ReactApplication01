@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+#Section1{
+      background: #6e003a;
+background: linear-gradient(90deg, rgba(110, 0, 58, 1) 0%, rgba(9, 9, 121, 1) 63%, rgba(126, 0, 199, 1) 100%);
+}
